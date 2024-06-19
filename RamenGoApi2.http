@@ -1,0 +1,6 @@
+@RamenGoApi2_HostAddress = http://localhost:5029
+
+GET {{RamenGoApi2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
